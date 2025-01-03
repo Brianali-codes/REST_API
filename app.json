@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "Types": "Mobile Phones and Tablets",
       "2160x3840": "https://picsum.photos/2160/3840",
       "1440x2560": "https://picsum.photos/1440/2560",
       "1440x3040": "https://picsum.photos/1440/3040",
@@ -13,6 +14,7 @@
       "720x1600": "https://picsum.photos/720/1600"
     },
     {
+      "Types": "Wide screens like TVs and laptops",
       "1920x1080": "https://picsum.photos/1920/1080",
       "2560x1440": "https://picsum.photos/2560/1440",
       "2880x1620": "https://picsum.photos/2880/1620",
@@ -23,6 +25,36 @@
       "1600x900": "https://picsum.photos/1600/900",
       "1440x900": "https://picsum.photos/1440/900",
       "1280x800": "https://picsum.photos/1280/800"
-    }
+    },
+     {
+      "Types": "advanced usage (Blur Effect)",
+      "1920x1080": "https://picsum.photos/1920/1080?blur",
+      "2560x1440": "https://picsum.photos/2560/1440?blur",
+      "2880x1620": "https://picsum.photos/2880/1620?blur",
+      "3840x2160": "https://picsum.photos/3840/2160?blur",
+      "2560x1600": "https://picsum.photos/2560/1600?blur",
+      "3200x1800": "https://picsum.photos/3200/1800?blur",
+      "1366x768": "https://picsum.photos/1366/768?blur",
+      "1600x900": "https://picsum.photos/1600/900?blur",
+      "1440x900": "https://picsum.photos/1440/900?blur",
+      "1280x800": "https://picsum.photos/1280/800?blur"
+    },
+      "Types": "advanced usage (Grayscale)",
+      "1920x1080": "https://picsum.photos/1920/1080?grayscale",
+      "2560x1440": "https://picsum.photos/2560/1440?grayscale",
+      "2880x1620": "https://picsum.photos/2880/1620?grayscale",
+      "3840x2160": "https://picsum.photos/3840/2160?grayscale",
+      "2560x1600": "https://picsum.photos/2560/1600?grayscale",
+      "3200x1800": "https://picsum.photos/3200/1800?grayscale",
+      "1366x768": "https://picsum.photos/1366/768?grayscale",
+      "1600x900": "https://picsum.photos/1600/900?grayscale",
+      "1440x900": "https://picsum.photos/1440/900?grayscale",
+      "1280x800": "https://picsum.photos/1280/800?grayscale"
+    },
+    {
+      "Get Random List": "https://picsum.photos/v2/list",
+      "Get Random List With Limit": "https://picsum.photos/v2/list?page=2&limit=100",
+    },
+    
   ]
 }
